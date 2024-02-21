@@ -1,0 +1,16 @@
+package org.kh.java;
+
+public class Variable5 {
+
+	public static void main(String[] args) {
+		char ch1 = 'H';
+		char ch2 = A; //아스키 코드 A
+		char ch3 = R; //아스키 코드 R
+		
+		System.out.println("ch1 :" +ch1);
+		System.out.println("ch2 :" +ch2);
+		System.out.println("ch3 :" +ch3);
+
+	}
+
+}
