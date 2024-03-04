@@ -8,4 +8,5 @@
     <fullyQualifiedTypeName name="sec2.Mammal"/>
     <fullyQualifiedTypeName name="sec2.Birds"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
 </qualifiedTypeNameHistroy>
